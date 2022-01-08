@@ -1,0 +1,5 @@
+
+
+struct MyPoint {
+    int x;
+};

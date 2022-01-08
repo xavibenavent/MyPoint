@@ -1,6 +1,8 @@
-public struct MyPoint {
-    public private(set) var text = "Hello, World!"
+//
+//  File.swift
+//  
+//
+//  Created by xavi benavent on 8/1/22.
+//
 
-    public init() {
-    }
-}
+import Foundation
